@@ -1,3 +1,22 @@
 body {
   font-family: sans-serif;
+  text-align: center;
+}
+
+#change-color-button {
+  text-align: center;
+  font-weight: bold;
+  background-color: blueviolet;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: white;
+  border-radius: 30px;
+  padding: 20px;
+  margin-top: 400px;
+  border: black solid 1px;
+}
+
+h1 {
+  margin-top: 50px;
+  color: blueviolet;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }

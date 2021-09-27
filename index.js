@@ -4,7 +4,7 @@
 
 let button = document.getElementById("change-color-button");
 let text = document.getElementById("change-color-text");
-let colors = ['blue', 'yellow', 'black', 'red', 'brown', 'orange'];
+let colors = ['blue', 'yellow', 'pink', 'green', 'red', 'brown', 'orange'];
 
 button.addEventListener("click", changeBackground);
 
